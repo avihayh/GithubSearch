@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Isracard.Models.IndexViewModel>
+
+<script src="~/Scripts/GithubJS.js"></script>
+<h1>Local repository</h1>
+<div class="row">
+    @foreach (var item in ViewBag.SearchResults)
+    {
+        <div class="col-md-4">
+            <h2>@item.Name</h2>
+            <img src="@item.Avatar" height="100" width="100" />
+            <p><a class="btn btn-default" href="@item.Url">Navigate to project</a></p>
+            <button class="btn btn-default" type="submit" onclick="AddToBookMark('@item.ID','@item.Name','@item.Avatar','@item.Url')"><i class="glyphicon glyphicon-bookmark"></i>Add Bookmark</button>
+        </div>
+    }
+</div>
