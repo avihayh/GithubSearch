@@ -1,0 +1,5 @@
+c:\Users\administrator\documents\visual studio 2013\Projects\Isracard\GitHubAPI\bin\Debug\GitHubAPI.dll
+c:\Users\administrator\documents\visual studio 2013\Projects\Isracard\GitHubAPI\bin\Debug\GitHubAPI.pdb
+c:\Users\administrator\documents\visual studio 2013\Projects\Isracard\GitHubAPI\obj\Debug\GitHubAPI.dll
+c:\Users\administrator\documents\visual studio 2013\Projects\Isracard\GitHubAPI\obj\Debug\GitHubAPI.pdb
+c:\Users\administrator\documents\visual studio 2013\Projects\Isracard\GitHubAPI\bin\Debug\Newtonsoft.Json.dll
